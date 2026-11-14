@@ -1,4 +1,4 @@
-// Greet user based on the name parameter
+// Greet user based on the supplied name
 function sayHi(name) {
   return `Hello there ${name}`
 }
